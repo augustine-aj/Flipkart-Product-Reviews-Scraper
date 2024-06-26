@@ -2,6 +2,21 @@
 
 This project is a web scraper built using Selenium and Python to extract customer reviews for a specific product from Flipkart. The scraper navigates through multiple pages of reviews, collects the data, and saves it into a CSV file.
 
+## Objectives
+The aim of this project is to leverage machine learning techniques to perform sentiment analysis on customer reviews from eCommerce platforms. By analyzing customer sentiment, the project seeks to extract valuable insights that can help eCommerce businesses understand customer satisfaction levels, identify trends, and improve their products and services.
+
+1. Sentiment Classification: Develop machine learning models that can classify customer reviews into positive, negative, or neutral sentiments. This classification helps in quantifying customer satisfaction and dissatisfaction levels.
+
+2. Feature Extraction: Extract meaningful features from customer reviews, such as keywords, sentiment indicators, and product attributes mentioned by customers. These features provide deeper insights into customer preferences and pain points.
+
+3. Data Preprocessing: Clean and preprocess raw customer review data to enhance the quality and relevance of input data for machine learning models. This includes text normalization, tokenization, and handling of stopwords and special characters.
+
+4. Model Training: Train machine learning models using labeled customer review data. Experiment with various algorithms such as Naive Bayes, Support Vector Machines (SVM), or deep learning models like Recurrent Neural Networks (RNNs) or Transformers to find the most effective model for sentiment analysis.
+
+5. Model Evaluation: Evaluate the performance of trained models using metrics such as accuracy, precision, recall, and F1-score. Fine-tune models based on evaluation results to optimize performance.
+
+6. Deployment: Deploy the best-performing sentiment analysis model as a scalable solution that can analyze real-time customer reviews from eCommerce platforms. Integration with existing eCommerce systems allows for continuous feedback analysis.
+
 ## Table of Contents
 - Overview
 - Insights
