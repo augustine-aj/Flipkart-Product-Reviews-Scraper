@@ -41,7 +41,7 @@ By using this scraper, users can gain valuable insights into:
 
 ## Installation
 
-- Clone the Repository:[git clone https://github.com/yourusername/flipkart-reviews-scraper.git
+- Clone the Repository:[git clone https://github.com/augustine-aj/flipkart-Product-Reviews-scraper.git
 cd flipkart-reviews-scraper
 
 - Install Required Packages:
