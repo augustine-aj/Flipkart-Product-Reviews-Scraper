@@ -2,9 +2,6 @@
 
 This project is a web scraper built using Selenium and Python to extract customer reviews for a specific product from Flipkart. The scraper navigates through multiple pages of reviews, collects the data, and saves it into a CSV file.
 
-Live coding recorded video link:
-
-https://youtu.be/tPXvSGVPoUw
 
 ## Objectives
 The aim of this project is to leverage machine learning techniques to perform sentiment analysis on customer reviews from eCommerce platforms. By analyzing customer sentiment, the project seeks to extract valuable insights that can help eCommerce businesses understand customer satisfaction levels, identify trends, and improve their products and services.
@@ -70,3 +67,7 @@ The extracted data will be saved in review_data.csv in the project directory.
 
 ## Conclusion
 This project demonstrates how to use Selenium for web scraping tasks, specifically extracting product review data from Flipkart. The extracted data can be used for various analytical purposes, such as sentiment analysis, market research, and customer feedback analysis. By automating the data collection process, this scraper saves time and effort, allowing users to focus on analyzing the data and deriving actionable insights.
+
+Live coding recorded video link:
+
+https://youtu.be/tPXvSGVPoUw
